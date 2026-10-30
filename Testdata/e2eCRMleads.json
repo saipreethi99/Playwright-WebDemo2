@@ -1,0 +1,17 @@
+{
+    "url":"http://49.249.29.4:8888/",
+    "username":"admin",
+    "password": "admin",
+    "firstname" : "Sai",
+    "lastname" : "Chandubatla",
+    "company" : "Tek",
+    "mobile" : "1234567890",
+    "email" : "sai@gmail.com",
+    "description" : "created leads with the data" ,
+    "orgname" : "Test yentra",
+    "website" : "https://www.google.com",
+    "employees" : "200",
+    "annualrevenue" : "250 crores"
+    
+
+}

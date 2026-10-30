@@ -1,0 +1,40 @@
+{
+    "regurl" : "https://demowebshop.tricentis.com/register",
+    "firstName": "Saipreethi",
+    "lastName": "Chandubatla",
+    "gender": "Female",
+    "email" : "saipreethiiiii@gmail.com",
+    "password": "Sai123!!",
+    "confirmPassword" : "Sai123!!",
+    "invalidEmail": "invalid-email-format",
+    
+    "shortPassword": "Chan",
+    "cshortPassword" : "Chan",
+    
+    "invalidPassword" : "Sai12!",
+    "mismatchedPassword": "DifferentPass123!",
+    "emptyValue": "",
+
+    "loginurl" : "https://demowebshop.tricentis.com/login",
+
+    "url" : "https://demowebshop.tricentis.com/",
+    "productName": "Health book",
+
+    "urladd" : "https://demowebshop.tricentis.com/search?q=Health+book",
+
+    "carturl" : "https://demowebshop.tricentis.com/cart",
+    "billingurl" : "https://demowebshop.tricentis.com/onepagecheckout",
+    "city" : "Bnglr",
+    "address" : "Rajajinagar",
+    "postalCode" : "500001",
+    "pno" : "1234567890",
+    "shippingurl" : "https://demowebshop.tricentis.com/onepagecheckout",
+    "receipientname" : "Sarayu",
+    "yourname" : "Sai",
+    "message" : "Happy Birthday",
+    "frdsemail" : "sarayu@gmail.com",
+    "yremailaddrs" : "saipreethi@gmail.com",
+    "personalmsg" : "Happy for you"
+  }
+
+
