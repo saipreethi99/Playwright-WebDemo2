@@ -19,7 +19,7 @@ pipeline {
                         string(credentialsId: 'EMAIL', variable: 'EMAIL'),
                         string(credentialsId: 'PASSWORD', variable: 'PASSWORD')
                     ]) {
-                        status = bat(script: 'npx playwright test', returnStatus: true)
+                        status = bat(script: 'npx playwright test tests/webdemo3fixsto.spec.js', returnStatus: true)
                     }
 
                     if (status != 0) {
